@@ -1,0 +1,13 @@
+{
+  "name": "算数ラボ",
+  "short_name": "算数ラボ",
+  "description": "さわって、ためして、しくみを見つける小学2年生向け算数学習アプリ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4fcfb",
+  "theme_color": "#0891b2",
+  "icons": [
+    { "src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
